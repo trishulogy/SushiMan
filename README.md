@@ -1,15 +1,10 @@
 # 🍣 Sushiman
 
-&lt;div align="center"&gt;
-
-![Sushiman Banner](assets/sushi-1.png)
+<div align="center">
 
 **Feel the taste of Japanese food from anywhere, anytime.**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Site-ff6b6b?style=for-the-badge&logo=vercel)](https://your-demo-link-here)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/sushiman)
-
-&lt;/div&gt;
+</div>
 
 ---
 
