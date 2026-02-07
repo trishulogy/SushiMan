@@ -114,7 +114,7 @@ sushiman/
 │   └── 🎨 *.svg                         # Icons (star, check, arrows, social)
 └── 📄 README.md                # This file
 
-
+```
 ---
 
 ## 🎯 Key Highlights
@@ -137,16 +137,6 @@ sushiman/
 - Smooth **scale** transitions on food cards
 
 ---
-
-## 🖥️ Screenshots
-
-<div align="center">
-
-| Desktop Hero | Popular Menu | Mobile View |
-|:------------:|:------------:|:-----------:|
-| ![Hero](assets/sushi-1.png) | ![Menu](assets/sushi-11.png) | 📱 Responsive |
-
-</div>
 
 ---
 
